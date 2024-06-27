@@ -18,3 +18,7 @@ span[class~="sr-only"] {
   margin-bottom: 25px;
   margin: auto;
 }
+
+.My-Name, h2, h1, p {
+  text-align: center;
+}
