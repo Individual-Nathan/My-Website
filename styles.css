@@ -22,3 +22,7 @@ span[class~="sr-only"] {
 .My-Name, h2, h1, p {
   text-align: center;
 }
+
+.nav li {
+  display: inline-block;
+}
