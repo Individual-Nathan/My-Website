@@ -26,3 +26,7 @@ span[class~="sr-only"] {
 .nav li {
   display: inline-block;
 }
+
+body {
+  background-color: rgb(44, 107, 185);
+}
